@@ -1,19 +1,23 @@
-## Hi there 👋
-## 🌱 I’m currently learning React
-## 👯 I’m looking to collaborate on Web Dev Competition
-## 📫 How to reach me: assabiqjundi2007@gmail.com 
-## 😄 Pronouns: He/Him
-<!--
-**jundiassabiq/jundiassabiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Muhammad Jundi Assabiq 👋
 
-Here are some ideas to get you started:
+A passionate developer bridging web development, intelligent AI systems, and smart IoT/robotics automation. I love solving complex engineering problems, designing efficient architectures, and bringing hardware and software together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Do
+* **Web Development:** Crafting modern, scalable web applications and managing robust relational databases (Oracle SQL, SQL Developer).
+* **IoT & Robotics:** Developing smart automation, advanced kinematics, wireless communication protocols, and modular embedded code (C/C++).
+* **Artificial Intelligence:** Integrating intelligent AI solutions to build smarter, data-driven applications.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Systems** | C++, C, SQL, Linux/Ubuntu Server |
+| **Web Dev & DB** | HTML, CSS, JavaScript, Oracle DB |
+| **IoT & Robotics** | Microcontrollers, Embedded C++, Kinematics |
+| **Tools & Devops** | Git, GitHub, Oracle VM VirtualBox |
+
+---
