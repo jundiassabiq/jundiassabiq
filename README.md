@@ -15,9 +15,7 @@ A passionate developer bridging web development, intelligent AI systems, and sma
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages & Systems** | C++, C, SQL, Linux/Ubuntu Server |
-| **Web Dev & DB** | HTML, CSS, JavaScript, Oracle DB |
-| **IoT & Robotics** | Microcontrollers, Embedded C++, Kinematics |
-| **Tools & Devops** | Git, GitHub, Oracle VM VirtualBox |
+| **Languages & Systems** | C++, C, Javascript |
+| **IoT & Robotics** | Esp32, Arduino |
 
 ---
