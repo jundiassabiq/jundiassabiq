@@ -1,4 +1,3 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjg4dHE5YXh6eHR4MXpvNXptZnhlMDNhbGNiMXV4YTJmZGtvNnI3ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ed8DSUeYGBq4E/giphy.gif" width="100%" />
 <h1>Hi, I'm Jundi Assabiq</h1>
 <p>A passionate developer bridging web development, intelligent AI systems, and smart IoT/robotics automation. I love solving complex engineering problems, designing efficient architectures, and bringing hardware and software together.</p>
 <h2>Languages and Tools I Use</h2>
