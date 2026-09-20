@@ -18,3 +18,5 @@
 <a href="https://www.codewars.com/users/jundiassabiq">
   <img src="https://vercel.app" alt="Codewars Card" />
 </a>
+[![Codewars Badge](https://codewars.com)](https://www.codewars.com/users/jundiassabiq)
+[![Codewars Badge](https://codewars.com)](https://www.codewars.com/users/jundiassabiq)
